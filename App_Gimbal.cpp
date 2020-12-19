@@ -2,8 +2,9 @@
 #include "Gimbal.hpp"
 
 int main(){
-    Gimbal Merio;
+    Gimbal Merio("Merio");
     Merio.moverse();
+    Merio.newFunction();
 
     return 0;
 }
