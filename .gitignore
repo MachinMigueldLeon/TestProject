@@ -1,5 +1,5 @@
-* .exe
-* .out
-* .o
-* .app
-* .bin
+!* .exe
+!* .out
+!* .o
+!* .app
+!*.bin
