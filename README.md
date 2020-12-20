@@ -8,7 +8,12 @@ El documento aparecen:
 
 > En la organizacion esta la clave del exito
 
-El codigo 'Gimbal.cpp' muestra un simple "mensaje"
+El codigo `Gimbal.cpp` muestra un simple mensaje. Debo incluir:
+```
+git status
+git add
+git commit
+```
 
 
 ## TODO
